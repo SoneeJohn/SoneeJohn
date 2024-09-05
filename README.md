@@ -1,4 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soneejohn)](https://github.com/soneejohn/github-readme-stats)
-![Sonee's GitHub stats](https://github-readme-stats.vercel.app/api?username=soneejohn&count_private=true)
+![](https://raw.githubusercontent.com/SoneeJohn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SoneeJohn/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/SoneeJohn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SoneeJohn/github-stats/master/generated/languages.svg#gh-light-mode-only)
